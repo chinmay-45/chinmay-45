@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay-45
-- 👀 I’m interested in software development Engineer
-- 🌱 I’m currently studying in DIT UNIVERSITY
+- 🌱 I studied at DIT UNIVERSITY
+- I am currently working at Deloitte as Salesforce Developer
 - 📫 Contact:- chinmayupadhyay301@gmail.com
 
 <!---
